@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/PPSupplyMono-Regular.otf",
+      "sha1": "dd647b579863cb9bd31506266cb961ac8969c85e"
+    },
+    {
+      "path": "src/assets/fonts/PPSupplyMono-Ultralight.otf",
+      "sha1": "f4d4b5ad16975b190be4eea776cba1298c32e30d"
+    },
+    {
+      "path": "src/assets/fonts/PPSupplySans-Regular.otf",
+      "sha1": "ff9cfe288ef222600c4850c6a2e8c6a9ce5939b8"
+    },
+    {
+      "path": "src/assets/fonts/PPSupplySans-Ultralight.otf",
+      "sha1": "7700cd848f55705df7dc93946f5ba11572a24639"
+    },
+    {
+      "path": "src/assets/fonts/Roobert-Regular.otf",
+      "sha1": "6cfc3f6dacb6e64ebf4ecb3ad455c2c12777a80a"
+    },
+    {
+      "path": "src/assets/fonts/Roobert-SemiBold.otf",
+      "sha1": "2efbbce2629a0d6bedbd50074c340e375a137fb3"
+    }
+  ]
+}
