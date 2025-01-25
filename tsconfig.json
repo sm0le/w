@@ -1,0 +1,38 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+		"allowSyntheticDefaultImports": true,
+		"esModuleInterop": true,
+		"isolatedModules": true,
+		"jsx": "react-native",
+		"moduleResolution": "node",
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"noImplicitAny": true,
+		"noEmit": true,
+		"strict": true,
+		"target": "esnext",
+		"baseUrl": "/"
+	},
+	"exclude": [
+		"node_modules",
+		"babel.config.js",
+		"metro.config.js",
+		"jest.config.js"
+	],
+	"paths": {
+		// Core aliases:
+		"@/assets/*": "./src/assets/*",
+		"@/components/*": "./src/components/*",
+		"@/constants/*": "./src/constants/*",
+		"@/controller/*": "./src/controller/*",
+		"@/helpers/*": "./src/helpers/*",
+		"@/hooks/*": "./src/hooks/*",
+		"@/interfaces/*": "./src/interfaces/*",
+		"@/libs/*": "./src/libs/*",
+		"@/navigation/*": "./src/navigation/*",
+		"@/screens/*": "./src/screens/*",
+		"@/store/*": "./src/store/*",
+		"@/utils/*": "./src/utils/*"
+	}
+}
